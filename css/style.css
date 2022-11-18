@@ -42,7 +42,7 @@
     height: 100%;
     background-position: center;
     background-size: cover;
-    background-image: linear-gradient(hsla(277,100%,25%,0.6), hsla(277,100%,25%,0.6)),   url(images/image-header-desktop.jpg);
+    background-image: linear-gradient(hsla(277,100%,25%,0.6), hsla(277,100%,25%,0.6)),   url(./images/image-header-desktop.jpg);
   
   }
    .description{
@@ -108,7 +108,7 @@ ul span{
     height: 30%;
     background-position: center;
     background-size: cover;
-    background-image: linear-gradient(hsla(277,100%,25%,0.6), hsla(277,100%,25%,0.6)),   url(images/image-header-mobile.jpg);
+    background-image: linear-gradient(hsla(277,100%,25%,0.6), hsla(277,100%,25%,0.6)),   url(./images/image-header-mobile.jpg);
   
   }
    .description{
